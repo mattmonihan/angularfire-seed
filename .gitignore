@@ -200,6 +200,8 @@ var/
 sdist/
 develop-eggs/
 .installed.cfg
+node_modules/
+app/bower_components/
 
 # Installer logs
 pip-log.txt
